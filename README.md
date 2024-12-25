@@ -1,2 +1,2 @@
 # generata
-Fake tabular data generation app with LLMs and Streamlit
+Generate the data with LLMs and Streamlit.
