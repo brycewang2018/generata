@@ -1,5 +1,6 @@
 # generata: Generate Any Data
-<img width="625" alt="image" src="https://github.com/user-attachments/assets/d5c237dc-e747-403f-b676-f9d130b909fa" />
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/ddd04771-07dc-419c-9e07-400dab53bc0e" />
+
 
 Generate any data with LLMs and Streamlit.
 
