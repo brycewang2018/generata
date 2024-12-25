@@ -1,7 +1,6 @@
-# generata
+# generata: Generate Any Data
 Generate the data with LLMs and Streamlit.
-![image](https://github.com/user-attachments/assets/76fc3afb-47f2-4b8d-a37e-018d0ec47254)
-
+![image](https://github.com/user-attachments/assets/cf1c5a68-f561-4cba-819c-4530045e07a1)
 
 # App V1 
 ## Simple UI
